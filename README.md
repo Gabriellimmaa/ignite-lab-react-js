@@ -6,7 +6,7 @@
 
 ---
 ## 📚 Sections
-O site é composto por cinco seções:
+The website consists of five sections:
 - **Home:** Site presentation and registration screen;
 - **Event:** Screen with all the video lessons;
 - **Lesson:** Screen with the content of an activity;
