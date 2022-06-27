@@ -2,37 +2,37 @@
 
 ![Resultado final do projeto](public/assets/preview.png)
 
-<h4 align="center"><a href="https://ignite-lab-rocketseat-dun.vercel.app/">Clique para visitar o site</a></h4>
+<h4 align="center"><a href="https://ignite-lab-rocketseat-dun.vercel.app/">Click to visit website</a></h4>
 
 ---
-## 📚 Seções
+## 📚 Sections
 O site é composto por cinco seções:
-- **Home:** Tela de apresentação e inscrição do site;
-- **Event:** Tela com todas as videos aulas;
-- **Lesson:** Tela com o conteudo de uma atividade;
+- **Home:** Site presentation and registration screen;
+- **Event:** Screen with all the video lessons;
+- **Lesson:** Screen with the content of an activity;
 ---
-## 🛠️ Construído com
-Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+## 🛠️ Developed with
+For the development of this site I used the following technologies:
 - Vine;
 - React;
 - GraphQL;
 - GraphCMS;
 - Tailwind CSS;
 ---
-## ⚙️ Descrição
-O projeto está bem superficial, pretendo melhorar o mesmo ainda!
-- adicionar home page com todos os cursos
-- adicionar funcionalidade de login
-- adicionar funcionalidade para registrar cursos
-- estilizar alguns tratamentos
+## ⚙️ Description
+The project is very superficial, I intend to improve the same yet!
+- add home page with all courses
+- add login functionality
+- add functionality to register courses
+- style some treatments
 ---
-## ✒️ Autor
+## ✒️ Author
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Gabriellimmaa">
-        <img src="https://avatars3.githubusercontent.com/u/42157830" width="100px;" alt="Foto do Gabriel Lima no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/42157830" width="100px;" alt="Photo by Gabriel Lima on GitHub"/><br>
         <sub>
           <b>Gabriel Lima</b>
         </sub>
@@ -43,6 +43,6 @@ O projeto está bem superficial, pretendo melhorar o mesmo ainda!
 
 ---
 
-Obrigado por me ceder seu tempo lendo sobre o meu trabalho.
+Thank you for taking the time to read about my work.
 
-Qualquer dúvida, crítica ou sugestão entre em <a href="mailto:gabriellimamoraes@gmail.com/">contato</a> pelo meu e-mail
+Any questions, criticisms or suggestions, <a href="mailto:gabriellimamoraes@gmail.com/">contact</a> through my email
