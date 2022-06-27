@@ -21,6 +21,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 ---
 ## ⚙️ Descrição
 O projeto está bem superficial, pretendo melhorar o mesmo ainda!
+- adicionar home page com todos os cursos
+- adicionar funcionalidade de login
+- adicionar funcionalidade para registrar cursos
+- estilizar alguns tratamentos
 ---
 ## ✒️ Autor
 
