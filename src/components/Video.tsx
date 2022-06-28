@@ -10,7 +10,9 @@ export function Video(props: VideoProps) {
     const { data } = useMyGetLessonBySlugQuery({
         variables: {
             slug: props.lessonSlug
-        }
+        },
+        fetchPolicy: "network-only"
+        
     })
 
     if (!data || !data.lesson) {
