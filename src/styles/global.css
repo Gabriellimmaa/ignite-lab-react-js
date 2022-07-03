@@ -3,7 +3,23 @@
 @tailwind utilities;
 
 body {
-    @apply bg-gray-900 text-gray-100;
-    -webkit-font-smoothing: antialiased;
+  @apply bg-gray-900 text-gray-100;
+  -webkit-font-smoothing: antialiased;
 }
 
+.input-gray {
+  @apply block
+        w-full
+        px-3
+        py-1.5
+        text-white
+        bg-gray-500 bg-clip-padding
+        border-2 border-solid
+        border-gray-500
+        rounded
+        transition
+        ease-in-out
+        m-0
+        my-2
+         focus:border-orange-500 focus:outline-none;
+}
