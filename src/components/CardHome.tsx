@@ -9,8 +9,8 @@ interface cardHome {
 
 export function CardHome(props: cardHome) {
     return (
-        <div className="w-[200px] h-[250px] bg-gray-700 p-6 border-l border-gray-600">
-            <div className="gap-8 border-b border-gray-500 block py-2">
+        <div className="w-full h-full bg-gray-700 p-3 border-l border-gray-600">
+            <div className="gap-8 border-b border-gray-500 block py-2 max-w-[100px] mx-auto">
                 <img src={props.img} />
             </div>
             <div className="font-bold text-lg py-5">
@@ -50,7 +50,7 @@ export function CardLogin() {
                     </div>
                 </a>
             </div>
-            <div className="w-full text-center my-3 grid grid-cols-2">
+            <div className="w-full text-center text-xs my-3 grid grid-cols-2">
                 <a className="cursor-pointer transition-colors hover:text-orange-500 border-r border-gray-500 text-right px-2">Create account</a>
                 <a className="cursor-pointer transition-colors hover:text-orange-500 text-left px-2">Forgot password?</a>
             </div>
