@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <img src="public/assets/preview.png">
-  <h4 align="center"><a href="https://video-plataform.vercel.app/">Clique para visitar o site</a></h4>
-<h4 align="center"><a href="https://www.figma.com/file/7Diez524svfSGk7JPqsxOv/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1">Clique para visitar o figma</a></h4>
+  <h4 align="center"><a href="https://video-plataform.vercel.app/" target="_blank">Clique para visitar o site</a></h4>
+  <h4 align="center"><a href="https://www.figma.com/file/7Diez524svfSGk7JPqsxOv/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1" target="_blank">Clique para visitar o figma</a></h4>
 </h1>
 
 ---
