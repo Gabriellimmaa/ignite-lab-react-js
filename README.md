@@ -1,25 +1,26 @@
 # 💻 Ignite Lab - ReactJS
 
-![Resultado final do projeto](public/assets/preview.png)
-
-<h4 align="center"><a href="https://video-plataform.vercel.app/">Click to visit website</a></h4>
-<h4 align="center"><a href="https://www.figma.com/file/7Diez524svfSGk7JPqsxOv/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1">Click to visit figma</a></h4>
-
----
-
-## 📚 Sections
-
-The website consists of five sections:
-
-- **Home:** Site presentation and registration screen;
-- **Event:** Screen with all the video lessons;
-- **Lesson:** Screen with the content of an activity;
+<h1 align="center">
+  <img src="public/assets/preview.png">
+  <h4 align="center"><a href="https://video-plataform.vercel.app/">Clique para visitar o site</a></h4>
+<h4 align="center"><a href="https://www.figma.com/file/7Diez524svfSGk7JPqsxOv/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1">Clique para visitar o figma</a></h4>
+</h1>
 
 ---
 
-## 🛠️ Developed with
+## 📚 Seções
 
-For the development of this site I used the following technologies:
+O aplicativo contém as seguintes seções:
+
+- **Home:** Apresentação do site e tela de cadastro;
+- **Event:** Tela com todas as video aulas;
+- **Lesson:** Tela com o conteúdo de uma atividade;
+
+---
+
+## 🛠️ Desenvolvido com
+
+Para o desenvolvimento deste aplicativo eu usei as seguintes tecnologias:
 
 - Vine;
 - React;
@@ -29,18 +30,18 @@ For the development of this site I used the following technologies:
 
 ---
 
-## ⚙️ Description
+## ⚙️ Descrição
 
-The project is very superficial, I intend to improve the same yet!
+O projeto é muito superficial, pretendo melhorar o mesmo ainda!
 
-- add home page with all courses
-- add login functionality
-- add functionality to register courses
-- style some treatments
+- adicionar página inicial com todos os cursos
+- adicionar funcionalidade de login
+- adicionar funcionalidade para registrar cursos
+- estilizar alguns tratamentos
 
 ---
 
-## ✒️ Author
+## ✒️ Autor
 
 <table>
   <tr>
@@ -57,6 +58,6 @@ The project is very superficial, I intend to improve the same yet!
 
 ---
 
-Thank you for taking the time to read about my work.
+Obrigado por me ceder seu tempo lendo sobre o meu trabalho.
 
-Any questions, criticisms or suggestions, <a href="mailto:gabriellimamoraes@gmail.com/">contact</a> through my email
+Qualquer dúvida, crítica ou sugestão entre em, <a href="mailto:gabriellimamoraes@gmail.com/">contato</a> pelo meu e-mail
