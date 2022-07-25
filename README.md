@@ -1,4 +1,4 @@
-# 💻 Ignite Lab - Rocketseat
+# 💻 Ignite Lab - ReactJS
 
 ![Resultado final do projeto](public/assets/preview.png)
 
