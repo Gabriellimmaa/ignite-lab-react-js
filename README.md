@@ -59,4 +59,4 @@ The project is very superficial, I intend to improve the same yet!
 
 Thank you for taking the time to read about my work.
 
-Any questions, criticisms or suggestions, `<a href="mailto:gabriellimamoraes@gmail.com/">`contact`</a>` through my email
+Any questions, criticisms or suggestions, <a href="mailto:gabriellimamoraes@gmail.com/">contact</a> through my email
